@@ -1,0 +1,1 @@
+pyinstaller --collect-data customtkinter --onefile --noconsole -i "C:\Users\peric\OneDrive\Documents\dev\bonelab_testing\bonelab_mods_manager\BLinstallericon.ico" C:\Users\peric\OneDrive\Documents\dev\bonelab_testing\bonelab_mods_manager\BLI.py
